@@ -1,9 +1,5 @@
 Start
 
-<<<<<<< HEAD
-Hello World!
-
-=======
 ##
 
 ####
@@ -20,5 +16,4 @@ Hello World!
 
 ####
 
->>>>>>> feature
 End
