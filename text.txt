@@ -1,20 +1,34 @@
 Start
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ##
 
 ####
 
+=======
+##
+
+<<<<<<< HEAD
+####
+
+=======
+>>>>>>> parent of 0c94d2f... revert step 1
+>>>>>>> test
 Hello World!
 
 Hello World!
 
+<<<<<<< HEAD
 >>>>>>> develop
+=======
+>>>>>>> test
 Hello World!
 
 Hello World!
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 ##
@@ -22,4 +36,13 @@ Hello World!
 ####
 
 >>>>>>> develop
+=======
+##
+
+<<<<<<< HEAD
+####
+
+=======
+>>>>>>> parent of 0c94d2f... revert step 1
+>>>>>>> test
 End
