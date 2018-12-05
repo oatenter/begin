@@ -1,24 +1,7 @@
 Start
 
-<<<<<<< HEAD
-Hello World!
-
-=======
-##
-
-####
-
 Hello World!
 
 Hello World!
 
-Hello World!
-
-Hello World!
-
-##
-
-####
-
->>>>>>> feature
 End
