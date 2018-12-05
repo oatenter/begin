@@ -1,10 +1,6 @@
 Start
 
 ##
-<<<<<<< HEAD
-##
-=======
->>>>>>> parent of 0309d62... reverting
 
 Hello World!
 
@@ -15,9 +11,5 @@ Hello World!
 Hello World!
 
 ##
-<<<<<<< HEAD
-##
-=======
->>>>>>> parent of 0309d62... reverting
 
 End
