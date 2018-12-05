@@ -1,7 +1,25 @@
 Start
 
+<<<<<<< HEAD
+=======
+##
+
+####
+
+Hello World!
+
+Hello World!
+
+>>>>>>> develop
 Hello World!
 
 Hello World!
 
+<<<<<<< HEAD
+=======
+##
+
+####
+
+>>>>>>> develop
 End
