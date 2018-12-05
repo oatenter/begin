@@ -2,11 +2,8 @@ Start
 
 ##
 
-<<<<<<< HEAD
 ####
 
-=======
->>>>>>> parent of 0c94d2f... revert step 1
 Hello World!
 
 Hello World!
@@ -17,9 +14,6 @@ Hello World!
 
 ##
 
-<<<<<<< HEAD
 ####
 
-=======
->>>>>>> parent of 0c94d2f... revert step 1
 End
