@@ -4,3 +4,5 @@ Hello World !!
 Hello World !!
 
 Edit file round 1
+
+Merge file round 1
