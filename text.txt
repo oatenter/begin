@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-=======
-A
-B
->>>>>>> parent of cc21297... test
 Hello World !!
 Hello World !!
 Hello World !!
